@@ -1,0 +1,15 @@
+{
+  "name": "ccc504-lab-4",
+  "version": "1.0.0",
+  "description": "Laboratorio #4 de Tecnologías Emergentes",
+  "main": "test.js",
+  "dependencies": {
+    "get_users_ccc504": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "René Rendón",
+  "license": "ISC"
+}
